@@ -4,11 +4,6 @@ The react-random-selection-wheel package is a React frontend component where you
 
 [Demo Link](https://dmoisoff.com/Random_Selection_Wheel/)
 
-**Installation**
-
-```cli
-npm install react-random-selection-wheel
-```
 
 **Overview**
 
